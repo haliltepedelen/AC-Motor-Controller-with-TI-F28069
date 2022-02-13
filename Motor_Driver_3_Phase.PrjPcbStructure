@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Current_Sensor.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Current_Sensor.SchDoc|FileName=Gate_Driver.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Current_Sensor.SchDoc|FileName=Mosfet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Current_Sensor.SchDoc|FileName=Parallel_Capacitor.SchDoc|SheetNumber= 
